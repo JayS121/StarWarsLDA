@@ -23,4 +23,4 @@ My recommendation:
 
 Since it involves web scraping, if you are not interested in that part, skip to Part 2 where you upload the CSV containing the web scraped movie scripts. If you want to walk through the web scraping, then start from the beginning, but just know that the CSV file I have uploaded already contains the scripts. 
 
-I would also recommend doing the web scraping just once, and each time you come back, start from "Part 2" rather than web scraping each time, which would make your behavior look bot-like and result in a potential ban/consequences from the website.
+I would also recommend doing the web scraping just once, and each time you come back, start from "Part 2" rather than web scraping each time, which might make your behavior look bot-like and result in a potential ban/consequences from the website.
